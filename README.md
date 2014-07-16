@@ -12,13 +12,7 @@ The following is a list of all of the challenges used for the 2013 CTF along wit
     <th>Repository</th>
     <th>Description</th>
   </tr>
-  <tr>
-    <td>Orkin</td>
-    <td>100</td>
-    <td><a href="https://github.com/mitre-cyber-academy/2013-binary-100">2013-binary-100</a></td>
-    <td>Gotta start somewhere! Try here</td>
-  </tr>
-
+  
   <tr>
     <td>Jarhead</td>
     <td>200</td>
