@@ -197,7 +197,7 @@ The following is a list of all of the challenges used for the 2013 CTF along wit
     <td>Plot Lines</td>
     <td>300</td>
     <td><a href="https://github.com/mitre-cyber-academy/2013-networking-300">2013-networking-300</a></td>
-    <td>While Captain Jack Sparrow is off galavanting about with his jar of dirt, there is still treasure to be discovered in the Carribean. See if you can figure out the riddles to find the greatest treasure of them all, and remember: X marks the spot.</td>
+    <td>While Captain Jack Sparrow is off galavanting about with his jar of dirt, there is still treasure to be discovered in the Caribbean. See if you can figure out the riddles to find the greatest treasure of them all, and remember: X marks the spot.</td>
   </tr>
 
   <tr>
